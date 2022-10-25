@@ -1,0 +1,22 @@
+#main-div{
+    background-color: rgb(128,128,128);
+    margin: 40px 40px;
+}
+
+#upper-block{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+#lower-block{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.block{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(210,180,140);
+    margin: 10px 10px;
+}
